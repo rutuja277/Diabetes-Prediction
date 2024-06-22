@@ -9,5 +9,5 @@ This is a Flask web application that predicts whether a person has diabetes or n
 - Predicts diabetes status (diabetic or non-diabetic)
 
 ## Demo
-![Demo Screenshot](Images/capture.jpg)
+![Demo Screenshot](Images/Capture.JPG)
 
